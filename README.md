@@ -2,5 +2,5 @@
 
 Deployed URL : https://aninxtwatch.ccbp.tech
 
-<p>username:rahul</p>
-<p>password:rahul@2021</p>
+<p>username: rahul</p>
+<p>password: rahul@2021</p>
